@@ -4,7 +4,7 @@
       
    <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Prabhat Poddar <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="32"/></h1>
       
-   <p align="center"> <img src="https://komarev.com/ghpvc/?username=sujeetcoder&label=Profile%20views&color=9130c2&style=flat" alt="prabhatpoddar" /> </p>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=prabhatpoddar&label=Profile%20views&color=9130c2&style=flat" alt="prabhatpoddar" /> </p>
       
    <h3 align="center">Analytical and detail-oriented aspiring
 Full Stack Web Developer. Capable of
@@ -23,7 +23,7 @@ product-based company.
       
 
  
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=sujeetcoder" alt="sujeetcoder" /> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=prabhatpoddar" alt="prabhatpoddar" /> </p>
 </br>
 
   
@@ -59,7 +59,7 @@ product-based company.
       <a href="https://twitter.com/sujeetcoder" target="_blank">
      <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" align="center" alt="Twitter"> </a>
       
-      <a title="sujeet-kumar" href="mailto:sujeetkumaryadav202020@gmail.com" target="_blank">
+      <a title="prabhat-poddar" href="mailto:pk041222@gmail.com" target="_blank">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" alt="html5"> </a>
      
      </div>
@@ -126,17 +126,17 @@ product-based company.
       <h2 align="center">📊 My Github Stats</h2>
          <br/>   
           <p align="center">      
-        <img alt="sujeetcoder Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetcoder&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+        <img alt="prabhatpoddar Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatpoddar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
             </p>      
            <br/>
          <p align="center">
-              <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sujeetcoder streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sujeetcoder&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+              <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="prabhatpoddar streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatpoddar&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
         </p>                                                                                                                                              
       
         <br/>
         <br/>
            <p align="center">                                                                                                 
-          <img alt="sujeetcoder Github Stats" src="https://github-readme-stats.vercel.app/api?username=sujeetcoder&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" />
+          <img alt="prabhatpoddar Github Stats" src="https://github-readme-stats.vercel.app/api?username=prabhatpoddar&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" />
           </p>                                                                 
        <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
       
@@ -144,7 +144,7 @@ product-based company.
       <br/>
       <br/>
       
-     <p> <img alt="sujeetcoder Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sujeetcoder&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> </p>
+     <p> <img alt="prabhatpoddar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prabhatpoddar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> </p>
       
       <br/>
       <br/>
