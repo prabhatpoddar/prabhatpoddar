@@ -34,13 +34,13 @@ product-based company.
       
    - 🌱 I’m currently learning at Masai
       
-      - 📄 Check out my <a href="https://drive.google.com/file/d/1f7srg0f-D1FkOJAEHuZBpPid5K6fTe7q/view?usp=share_link" target="_blank" >Resume</a>
+      - 📄 Check out my <a href="https://drive.google.com" target="_blank" >Resume</a>
       
-      - 💻 Know more about me <a href="https://sujeetcoder.github.io" target="_blank"  >Portfolio</a>
+      - 💻 Know more about me <a href="https://prabhatpoddar.github.io" target="_blank"  >Portfolio</a>
       
       - 💬 Ask me about *HTML, CSS, JavaScript, React, Chakra-UI, ExpressJS, MongoDB & DSA*
       
-      - 📫 How to reach me *sujeetkumaryadav202020@gmail.com*
+      - 📫 How to reach me *pk041222@gmail.com*
       
       
       <hr />
