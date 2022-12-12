@@ -34,7 +34,7 @@ product-based company.
       
    - 🌱 I’m currently learning at Masai
       
-      - 📄 Check out my <a href="https://drive.google.com" target="_blank" >Resume</a>
+      - 📄 Check out my <a href="https://drive.google.com](https://drive.google.com/file/d/1ARoQNnQb7bb7QVgvVe8ws8qQtv4dmywb/view?usp=sharing" target="_blank" >Resume</a>
       
       - 💻 Know more about me <a href="https://prabhatpoddar.github.io" target="_blank"  >Portfolio</a>
       
