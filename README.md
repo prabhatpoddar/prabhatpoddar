@@ -125,24 +125,10 @@ product-based company.
       
       <h2 align="center">📊 My Github Stats</h2>
          <br/>   
-          <p align="center">      
-      
-            </p>      
+            
            <br/>
          <p align="center">
               <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="prabhatpoddar streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhatpoddar&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
         </p>                                                                                                                                              
       
-        <br/>
-        <br/>
-           <p align="center">                                                                                                 
        
-        
-      
-      <br/>
-      <br/>
-   
-      
-      <br/>
-      <br/>
-      <br/>
