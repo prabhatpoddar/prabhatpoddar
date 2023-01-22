@@ -118,7 +118,8 @@ product-based company.
       
       
       <br/>
-       <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhatpoddar" alt="prabhatpoddar" /></a> </p>
+     <img src="https://github-readme-stats.vercel.app/api?username=prabhatpoddar&show_icons=true&locale=en" alt="status" />
+       <img src="https://streak-stats.demolab.com/?user=prabhatpoddar" alt="git stats" />
       
       
       <hr />
